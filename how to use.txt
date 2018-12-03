@@ -1,0 +1,5 @@
+How to use the VBA program
+
+Place two names in the blocked cells near the top
+Hit Start Over
+Hit Run It
